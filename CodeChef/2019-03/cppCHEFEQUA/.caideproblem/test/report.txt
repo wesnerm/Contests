@@ -1,0 +1,2 @@
+case1 error Line 1: Token 1: Expected 1, found 5
+case2 error Line 1: Token 1: Expected 227770853, found 892032486
